@@ -1,0 +1,48 @@
+
+Build avionics platform with Adafruit Clue board
+
+    1. Read sensor data
+    2. Perform analysis on data
+
+    balloon slow 
+    balloon powers the board
+
+
+# Questions ----------------
+- Did anyone get the board from the teacher
+
+# Requirements 
+- Adafruit Clue board
+- Need to use LatEx
+- Need one 
+- Need one action
+- data must be recorded
+
+Adafruit Clue Board
+- including temperature, humidity, pressure, 
+- a 9-DOF IMU (Rate Gyro, Accelerometer, and Magnetometer), 
+- and a light sensor
+- color LCD, a RGB Neopixel LED, and Bluetooth capabilities
+
+
+2MB of flash memory (code and data use same memory)
+
+ClueBoard uses QWIIC to connet (I^2)C
+
+Min of 1 sensor of recording data
+Several sensors at 1 Hz, 
+
+balloon itself collects GPS data with GPS timestamp data
+
+Timestamp = 1 Hz each counter index be 1 second interzals 
+
+Climb rate at 5 m/s, burst altitiude near 30 and 33 km
+decent is near 4-6 m
+highest decent near 10 m/s
+parachute is in line with stack line
+auto opens when the ballloon bursts
+
+total flght time 2h33m
+burst altitude 34161 meters
+time to burst 108 min
+ascent rate 5.26

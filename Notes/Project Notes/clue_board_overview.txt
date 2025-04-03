@@ -1,0 +1,7 @@
+
+Microcontroller: 1 MB of Code storagr and 2 MB of Data Storage
+                256KB RAM
+                64 MHz Cortext
+    Two A/B user bottons and one rest button
+
+1.3″ 240×240 Color IPS TFT display -
