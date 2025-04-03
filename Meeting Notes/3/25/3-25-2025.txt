@@ -1,0 +1,34 @@
+
+# Initial Setup
+- Init state to check everything is working
+- Boot code
+- GPIO
+- Look at docs for the pins for information (1st)
+
+# Altitude Monitoring
+- Check for a change in altitude
+- Once it takes off, check change in altitude to start measuring the actual data
+- Break statement if there are certain cases
+- Check altitude
+
+# Data Handling
+- Store data
+- Header file stuff
+
+# Focus Areas
+## Current Focus
+- Data storage
+- Find Pin information
+
+## Next Meeting Focus
+- Data storage
+- Find Pin information
+- Noise issues and gimbal lock
+- Storage Type
+- Check if it is C or C++
+- Get items and then go from there
+- Ask about imports
+
+# Roles
+- Maxwell - Software Guy
+- Devani - Hardware stuff
