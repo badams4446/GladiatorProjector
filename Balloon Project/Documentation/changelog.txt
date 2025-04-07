@@ -5,15 +5,15 @@
 ### Features
 - Added 'Documentation' folder
     - Added 'changelogs.txt' file
-    - Added 'docs.txt' file
     - Added 'todo.txt' file
 - Added 'main.cpp'
 - Added 'Meeting Notes' folder
     - Added '3-25-2025.txt'
 - Added 'exampleCode.cpp' file
+- Added PIC to the program
 
 ### Changes
-- NA
+- Reorganized files to fit into the 'Baloon Project' folder
 
 ### Bug Fixes
 - NA
