@@ -14,6 +14,11 @@
 ### Features
 - Created the 'LaTeX' folder
     - Created the 'docs.tex' file
+- Created the 'Examples' folder
+    - Created the 'LaTeX' folder
+        - Created the 'LaTeX_Examples.tex' file
+        - Created the 'Cpp_Examples.cpp' file
+        - Created the 'Prof_Cpp_Examples.cpp' file
 
 ### Changes
 - NA
