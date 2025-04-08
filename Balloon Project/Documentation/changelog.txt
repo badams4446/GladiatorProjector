@@ -1,19 +1,36 @@
 
-# Balloon Calculator 0.0.1
+# Balloon Calculator 0.0.2
+==========================================================================
 ## 4/7/2025
 
 ### Features
-- Added 'Documentation' folder
-    - Added 'changelogs.txt' file
-    - Added 'todo.txt' file
-- Added 'main.cpp'
-- Added 'Meeting Notes' folder
-    - Added '3-25-2025.txt'
 - Added 'exampleCode.cpp' file
 - Added PIC to the program
 
 ### Changes
 - Reorganized files to fit into the 'Baloon Project' folder
+- Removed 'docs.txt'
+
+### Bug Fixes
+- NA
+
+
+
+# Balloon Calculator 0.0.1
+==========================================================================
+## 4/2/2025
+
+### Features
+- Added 'Documentation' folder
+    - Added 'changelogs.txt' file
+    - Added 'todo.txt' file
+    - Added 'docs.txt' file
+- Added 'main.cpp'
+- Added 'Meeting Notes' folder
+    - Added '3-25-2025.txt'
+
+### Changes
+- NA
 
 ### Bug Fixes
 - NA
