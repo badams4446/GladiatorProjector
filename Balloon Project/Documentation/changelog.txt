@@ -1,5 +1,29 @@
 
-# Balloon Calculator 0.0.2
+# Balloon Calculator 0.1.1
+==========================================================================
+## 4/7/2025
+
+### IMPORTANT
+- The LaTeX file is locally rendered. It will not show on your end unless 
+  you are on GitHub (I believe). 
+- You can edit the document on your end though. 
+- Please only use the 'docs.tex' file.
+- In order to locally view the files, you need to use this link: 
+  https://www.youtube.com/watch?v=4lyHIQl4VM8&t=465s&ab_channel=FedericoTartarini
+
+### Features
+- Created the 'LaTeX' folder
+    - Created the 'docs.tex' file
+
+### Changes
+- NA
+
+### Bug Fixes
+- NA
+
+
+
+# Balloon Calculator 0.1.0
 ==========================================================================
 ## 4/7/2025
 
